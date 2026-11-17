@@ -1,3 +1,16 @@
+## My Contribution – Hardware Engineering
+
+I was responsible for the hardware development and integration of the project.
+
+My contributions included:
+- Hardware architecture and component selection.
+- Hardware setup, assembly and integration.
+- Communication and interfacing between hardware components.
+- Hardware testing, troubleshooting and validation.
+- Collaboration with the software team to ensure seamless hardware-software integration.
+
+**Note:** Software development was handled by other team members.
+
 There is a picture of our Air Control Station model that we've built in the UE IF3E with laser-cut wood. It contains one ESP32 board and 3 sensors ()  in order to get all properties of a room. 
 <br>Moreover we've used Node-red to built great interfaces where we can see all the data of our model.
 
